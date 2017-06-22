@@ -1,2 +1,11 @@
-# projeto-incubadora
-Projeto de pré-incubadora do Instituto Federal de Mato Grosso do Sul - Campus Nova Andradina, desenvolvido pelos alunos Alison Rocha, João Vitor e Maycon Tanni com a orientação do professor Daniel Brumazzi.
+# Projeto-incubadora
+
+## Descrição
+Projeto de pré-incubadora do Instituto Federal de Mato Grosso do Sul - Campus Nova Andradina, desenvolvido por alunos do curso de Análise e Desenvolvimento de Sistema
+
+## Desenvolvedores
+  * **Alison Rocha [alison.rocha@novaandradina.org]()**
+  * **João Vitor [joao.neves@novaandradina.org]()**
+  * **Maycon Tanii [maycon.chagad@novaandradina.org]()**
+## Orientador
+  * **Daniel B. Brumazzi**
